@@ -18,3 +18,12 @@ This project is a Node.js web application that allows users to create, read, upd
 <li>Users can edit existing blog posts by clicking on the "Edit" button on a post's page.</li>
 <li>Users can delete existing blog posts by clicking on the "Delete" button on a post's page.</li>
 </ul>
+<h3>Setup</h3>
+<p>To run the Social Media Blog application locally, follow these steps:</p>
+<ol>
+<li>Clone the repository to your local machine.</li>
+<li>Install Node.js and MongoDB on your machine if you haven't already.</li>
+<li>Navigate to the root directory of the project in your terminal.</li>
+<li>Run npm install to install the dependencies.</li>
+<li>Start the server by running npm start.</li>
+</ol>
